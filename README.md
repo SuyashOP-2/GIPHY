@@ -27,4 +27,18 @@ This React GIF app is inspired by GIPHY, allowing users to browse, like, and dow
 
 ## Snapshot
 
+![Screenshot (127)](https://github.com/SuyashOP-2/GIPHY/assets/104569186/c451d884-f5cb-4367-bfce-cd26747164cf)
+
+
+
+
+
+
+
+
+
+
+![Screenshot (128)](https://github.com/SuyashOP-2/GIPHY/assets/104569186/dd0f49f3-e30b-4ca0-a04b-0853a8b27008)
+
+
 

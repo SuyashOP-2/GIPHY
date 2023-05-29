@@ -26,5 +26,25 @@ This React GIF app is inspired by GIPHY, allowing users to browse, like, and dow
 4. Open your browser and navigate to `http://localhost:3000`.
 
 ## Snapshot
+![Screenshot (127)](https://github.com/SuyashOP-2/GIPHY/assets/104569186/54a66f85-f310-40cf-8eb3-1b55857654c0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Screenshot (128)](https://github.com/SuyashOP-2/GIPHY/assets/104569186/d3cc75f6-96ec-461c-9fd5-20d332301405)
+
 
 
